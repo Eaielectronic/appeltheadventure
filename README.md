@@ -12,3 +12,9 @@ Story: Micro Manager, in his desperation to gain the power of the golden apples 
 
 
 thank you for playing Appel The Adventure !!!!
+
+
+
+©copyright 2024
+
+Tous droits réservés
