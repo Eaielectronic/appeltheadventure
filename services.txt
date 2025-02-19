@@ -1,1 +1,1 @@
-{"serveur": "false", "versionser":"1.2", "version": "1.5.6"}
+{"serveur": "true", "versionser":"1.2", "version": "1.5.6"}
