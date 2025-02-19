@@ -1,1 +1,1 @@
-json
+["{\"ITEM1\":\"pomme\",\"ITEM1NUM\":\"150\",\"TIME\":\"3333\",\"ITEM2\":\"key\",\"ITEM2NUM\":\"1\",\"ITEM3\":\"Gpomme\",\"ITEM3NUM\":\"2\"}"]
